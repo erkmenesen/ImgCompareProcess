@@ -1,0 +1,20 @@
+C:\Users\erkmenesen.AKADEMETRE\source\repos\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.csprojResolveAssemblyReference.cache
+C:\Users\erkmenesen.AKADEMETRE\source\repos\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.Form1.resources
+C:\Users\erkmenesen.AKADEMETRE\source\repos\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.Properties.Resources.resources
+C:\Users\erkmenesen.AKADEMETRE\source\repos\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.csproj.GenerateResource.Cache
+C:\Users\erkmenesen.AKADEMETRE\source\repos\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.csproj.CoreCompileInputs.cache
+C:\Users\erkmenesen.AKADEMETRE\source\repos\ImgProcessTest\ImgProcessTest\bin\Debug\ImgProcessTest.exe.config
+C:\Users\erkmenesen.AKADEMETRE\source\repos\ImgProcessTest\ImgProcessTest\bin\Debug\ImgProcessTest.exe
+C:\Users\erkmenesen.AKADEMETRE\source\repos\ImgProcessTest\ImgProcessTest\bin\Debug\ImgProcessTest.pdb
+C:\Users\erkmenesen.AKADEMETRE\source\repos\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.exe
+C:\Users\erkmenesen.AKADEMETRE\source\repos\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.pdb
+M:\2 Pricing Panel\2.5 GP\ERKMEN\ImgProcessTest\ImgProcessTest\bin\Debug\ImgProcessTest.exe.config
+M:\2 Pricing Panel\2.5 GP\ERKMEN\ImgProcessTest\ImgProcessTest\bin\Debug\ImgProcessTest.exe
+M:\2 Pricing Panel\2.5 GP\ERKMEN\ImgProcessTest\ImgProcessTest\bin\Debug\ImgProcessTest.pdb
+M:\2 Pricing Panel\2.5 GP\ERKMEN\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.csprojAssemblyReference.cache
+M:\2 Pricing Panel\2.5 GP\ERKMEN\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.Form1.resources
+M:\2 Pricing Panel\2.5 GP\ERKMEN\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.Properties.Resources.resources
+M:\2 Pricing Panel\2.5 GP\ERKMEN\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.csproj.GenerateResource.cache
+M:\2 Pricing Panel\2.5 GP\ERKMEN\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.csproj.CoreCompileInputs.cache
+M:\2 Pricing Panel\2.5 GP\ERKMEN\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.exe
+M:\2 Pricing Panel\2.5 GP\ERKMEN\ImgProcessTest\ImgProcessTest\obj\Debug\ImgProcessTest.pdb
